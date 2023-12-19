@@ -313,7 +313,7 @@ body {
     height: 100%;
     text-align: center;
     background-color: rgba(4, 28, 47, 0.7);
-    border-radius: 100px;
+    border-radius: 8px;
     visibility: hidden;
     transition: opacity 1s;
 
@@ -349,7 +349,7 @@ body {
     top: 15px;
     opacity: 0;
     visibility: hidden;
-    transition: top 2s, opacity .5s;
+    transition: top 1s, opacity .5s;
     transition-delay: 0.1s;
 }
 
@@ -364,7 +364,7 @@ body {
     top: 15px;
     opacity: 0;
     visibility: hidden;
-    transition: top 1s, opacity 2s;
+    transition: top 1s, opacity 1gis;
     transition-delay: 0.3s;
 }
 
